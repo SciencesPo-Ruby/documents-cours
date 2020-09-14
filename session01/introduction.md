@@ -40,4 +40,4 @@ Les sessions 1 à 6 du cours visent à apprendre à utiliser le langage Ruby.
 
 Les 7 à 12 seront consacrées à l'atelier création d'un site web avec Ruby on Rails.
 
-[Retour à la table des matières](../)
+[Retour à la table des matières](../../../)

@@ -38,4 +38,4 @@ Dans le cadre de notre cours, le lien à utiliser est : [https://repl.it/classro
 
 Maintenant que votre compte est créé et que vous savez vous connecter à REPL.it, nous allons regarder comment faire des exercices via REPL.it.
 
-[Retour à la table des matières](../)
+[Retour à la table des matières](../../../)

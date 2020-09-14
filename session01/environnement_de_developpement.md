@@ -70,4 +70,4 @@ Quelques exemples d'IDE sont : Atom, Visual Studio Code, RubyMine, PyCharm... Ce
 
 Dans le cadre de ce cours, afin de faciliter nos travaux, nous utiliserons des outils qui fonctionnent sans installation et 100% dans un navigateur web.
 
-[Retour à la table des matières](../)
+[Retour à la table des matières](../../../)

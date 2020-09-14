@@ -20,3 +20,8 @@ Vous trouverez ici :
 
 ## Session 2 - 23/09/2020
 
+Patience
+
+## Anciens documents du cours
+
+Pour les curieux, les documents de cours de l'ancien semestre sont disponibles ici : [https://stepik.org/course/28921/syllabus](https://stepik.org/course/28921/syllabus)
