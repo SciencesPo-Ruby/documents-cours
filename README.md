@@ -20,7 +20,8 @@ Vous trouverez ici :
 
 ## Session 2 - 23/09/2020
 
-Patience
+- 📖 [Découverte de Ruby](./session02/decouverte_de_ruby.md)
+- 👨‍🏫 [Les types de données élémentaires](./session02/types_donnees_elementaires.md)
 
 ## Anciens documents du cours
 
