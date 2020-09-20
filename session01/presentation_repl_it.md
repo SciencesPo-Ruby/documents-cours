@@ -54,4 +54,4 @@ En conséquence, si vous rencontrez un problème durant certains exercices, nous
 
 Dans la suite du cours, nous allons créer un compte REPL.it.
 
-[Retour à la table des matières](../)
+[Retour à la table des matières](../../../)
