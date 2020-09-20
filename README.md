@@ -22,6 +22,8 @@ Vous trouverez ici :
 
 - 📖 [Découverte de Ruby](./session02/decouverte_de_ruby.md)
 - 👨‍🏫 [Les types de données élémentaires](./session02/types_donnees_elementaires.md)
+- 👨‍🏫 [Les structures de données élémentaires](./session02/structures_donnees_elementaires.md)
+- 💻 [Exercices à réaliser](./session02/exercices.md)
 
 ## Anciens documents du cours
 
