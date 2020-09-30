@@ -27,6 +27,15 @@ Vous trouverez ici :
 
 ## Session 3 - 30/09/2020
 
+- 👨‍🏫 [Affecter des données dans des variables](./session03/affecter_donnees_dans_variables.md)
+- 👨‍🏫 [Utiliser les commentaires](./session03/utiliser_les_commentaires.md)
+- 👨‍🏫 [Les fonctions](./session03/les_fonctions.md)
+- 👨‍🏫 [Comprendre les fonctions par l'exemple](./session03/comprendre_les_fonctions_par_exemple.md)
+- 👨‍🏫 [Les méthodes](./session03/les_methodes.md)
+- 💻 [Exercices à réaliser](./session03/exercices.md)
+
+## Session 4 - 07/10/2020
+
 Patience...
 
 ## F.A.Q.
