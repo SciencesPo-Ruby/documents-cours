@@ -1,4 +1,4 @@
-# Session 3 - Les méthodes
+# Session 4 - Les méthodes
 
 Ruby permet de lancer des fonctions sur des paramètres, mais dispose également d'une notation liée à ce que l'on appelle la "programmation orientée objet" (POO), que nous verrons un peu plus tard, et qui permet de lancer des fonctions sur des paramètres de manière "plus lisible".
 

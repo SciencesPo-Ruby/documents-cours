@@ -31,10 +31,18 @@ Vous trouverez ici :
 - 👨‍🏫 [Utiliser les commentaires](./session03/utiliser_les_commentaires.md)
 - 👨‍🏫 [Les fonctions](./session03/les_fonctions.md)
 - 👨‍🏫 [Comprendre les fonctions par l'exemple](./session03/comprendre_les_fonctions_par_exemple.md)
-- 👨‍🏫 [Les méthodes](./session03/les_methodes.md)
 - 💻 [Exercices à réaliser](./session03/exercices.md)
 
 ## Session 4 - 07/10/2020
+
+- 👨‍🏫 [Les méthodes](./session04/les_methodes.md)
+- 👨‍🏫 [Le type booléen](./session04/type_booleen.md)
+- 👨‍🏫 [Les structures conditionnelles](./session04/structures_conditionnelles.md)
+- 👨‍🏫 [Les boucles](./session04/les_boucles.md)
+- 👨‍🏫 [Pour s'échauffer...](./session04/echauffement.md)
+- 💻 [Exercices à réaliser](./session04/exercices.md)
+
+## Session 5 - XX/10/2020
 
 Patience...
 
