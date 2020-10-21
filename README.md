@@ -42,9 +42,12 @@ Vous trouverez ici :
 - 👨‍🏫 [Pour s'échauffer...](./session04/echauffement.md)
 - 💻 [Exercices à réaliser](./session04/exercices.md)
 
-## Session 5 - XX/10/2020
+## Session 5 - 21/10/2020
 
-Patience...
+- 👨‍🏫 [Utiliser le mot-clé return](./session05/return.md)
+- 👨‍🏫 [Les ranges](./session05/ranges.md)
+- 💻 [Exercice : réalisation d'un Puissance 4](./session05/puissance_4.md)
+- 💻 [Exercices à réaliser (rattrapage session 4)](./session05/exercices.md)
 
 ## F.A.Q.
 
