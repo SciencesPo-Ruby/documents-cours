@@ -46,8 +46,16 @@ Vous trouverez ici :
 
 - 👨‍🏫 [Utiliser le mot-clé return](./session05/return.md)
 - 👨‍🏫 [Les ranges](./session05/ranges.md)
+- 👨‍🏫 [Demander une saisie utilisateur](./session05/saisie_utilisateur.md)
 - 💻 [Exercice : réalisation d'un Puissance 4](./session05/puissance_4.md)
 - 💻 [Exercices à réaliser (rattrapage session 4)](./session05/exercices.md)
+
+## Session 6 - 04/11/2020
+- 👨‍🏫 [Exercices à faire ensemble](./session06/exercices_ensemble.md)
+- 👨‍🏫 [Jeu du Juste Prix](./session06/juste_prix.md)
+- 👨‍🏫 [Calcul de Pi](./session06/calculer_pi.md)
+- 💻 [Exercice : finalisation d'un Puissance 4](./session06/fin_puissance_4.md)
+- 💻 [Exercices à réaliser)](./session06/exercices.md)
 
 ## F.A.Q.
 
