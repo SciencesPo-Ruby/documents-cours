@@ -1,7 +1,8 @@
 # Session 2 - Exercices
 
-Les exercices à réaliser sont accessibles dans l'espace REPL.it [https://repl.it/student](https://repl.it/student).
+Les exercices sont :
+- https://repl.it/@MaximeALAYEDDIN/session2-ex1#main.rb
+- https://repl.it/@MaximeALAYEDDIN/session2-ex2#main.rb
 
-Attention : il y a plusieurs "Assignments" à réaliser.
 
 [Retour à la table des matières](../../../)

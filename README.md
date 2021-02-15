@@ -10,7 +10,7 @@ Vous trouverez ici :
 
 # Table des matières
 
-## Session 1 - 16/09/2020
+## Session 1 - 27/01/2021
 
 - 👨‍🏫 [Introduction](./session01/introduction.md)
 - 👨‍🏫 [De l'importance de l'environnement de développement](./session01/environnement_de_developpement.md)
@@ -18,31 +18,31 @@ Vous trouverez ici :
 - 👨‍🏫 [Création des comptes REPL.IT](./session01/creation_des_comptes_repl_it.md)
 - 💻 [Exercices à réaliser](./session01/exercices.md)
 
-## Session 2 - 23/09/2020
+## Session 2 - 03/02/2021
 
 - 📖 [Découverte de Ruby](./session02/decouverte_de_ruby.md)
+- 👨‍🏫 [Utiliser les commentaires](./session02/utiliser_les_commentaires.md)
 - 👨‍🏫 [Les types de données élémentaires](./session02/types_donnees_elementaires.md)
-- 👨‍🏫 [Les structures de données élémentaires](./session02/structures_donnees_elementaires.md)
+- 👨‍🏫 [Affecter des données dans des variables](./session02/affecter_donnees_dans_variables.md)
 - 💻 [Exercices à réaliser](./session02/exercices.md)
 
-## Session 3 - 30/09/2020
+## Session 3 - 10/02/2021
 
-- 👨‍🏫 [Affecter des données dans des variables](./session03/affecter_donnees_dans_variables.md)
-- 👨‍🏫 [Utiliser les commentaires](./session03/utiliser_les_commentaires.md)
+- 👨‍🏫 [Les structures de données élémentaires](./session03/structures_donnees_elementaires.md)
 - 👨‍🏫 [Les fonctions](./session03/les_fonctions.md)
 - 👨‍🏫 [Comprendre les fonctions par l'exemple](./session03/comprendre_les_fonctions_par_exemple.md)
+- 👨‍🏫 [Les méthodes](./session03/les_methodes.md)
 - 💻 [Exercices à réaliser](./session03/exercices.md)
 
-## Session 4 - 07/10/2020
+## Session 4 - 17/02/2021
 
-- 👨‍🏫 [Les méthodes](./session04/les_methodes.md)
 - 👨‍🏫 [Le type booléen](./session04/type_booleen.md)
 - 👨‍🏫 [Les structures conditionnelles](./session04/structures_conditionnelles.md)
 - 👨‍🏫 [Les boucles](./session04/les_boucles.md)
 - 👨‍🏫 [Pour s'échauffer...](./session04/echauffement.md)
 - 💻 [Exercices à réaliser](./session04/exercices.md)
 
-## Session 5 - 21/10/2020
+## Session 5 - 03/03/2021
 
 - 👨‍🏫 [Utiliser le mot-clé return](./session05/return.md)
 - 👨‍🏫 [Les ranges](./session05/ranges.md)
@@ -50,7 +50,7 @@ Vous trouverez ici :
 - 💻 [Exercice : réalisation d'un Puissance 4](./session05/puissance_4.md)
 - 💻 [Exercices à réaliser (rattrapage session 4)](./session05/exercices.md)
 
-## Session 6 - 04/11/2020
+## Session 6 - 10/03/2021
 - 👨‍🏫 [Exercices à faire ensemble](./session06/exercices_ensemble.md)
 - 👨‍🏫 [Jeu du Juste Prix](./session06/juste_prix.md)
 - 👨‍🏫 [Calcul de Pi](./session06/calculer_pi.md)

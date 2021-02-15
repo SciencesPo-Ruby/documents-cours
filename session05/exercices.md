@@ -1,7 +1,9 @@
 # Session 5 - Exercices
 
-Les exercices à réaliser sont accessibles dans l'espace REPL.it [https://repl.it/student](https://repl.it/student).
+Cette fois, je vous demande simplement de bien tout relire, et de valider que vous avez bien compris tout ce que nous avons fait.
 
-Attention : il y a plusieurs "Assignments" à réaliser.
+Refaites par exemple tous les exercices de cette session, en vérifiant que vous êtes capables de les faire en autonomie.
+
+Si besoin, envoyez-moi un email.
 
 [Retour à la table des matières](../../../)

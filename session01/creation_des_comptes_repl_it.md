@@ -1,16 +1,6 @@
 # Session 1 - Création des comptes REPL.IT
 
-## Lien d'invitation
-
-REPL.it dispose d'une fonctionnaltié de "classes virtuelles".
-
-L'enseignant crée une "classe virtuelle" puis obtient un lien que les étudiants peuvent utiliser pour s'inscrire.
-
-Dans le cadre de notre cours, le lien à utiliser est : [https://repl.it/classroom/invite/vda7rl9](https://repl.it/classroom/invite/vda7rl9).
-
-## Procédure de création de votre compte
-
-1) Cliquez sur le lien d'invitation mentionné plus haut.
+1) Rendez-vous sur [https://repl.it/login](https://repl.it/login).
 
 2) Une interface de connexion apparaît. Puisque les comptes étudiants de Sciences Po sont liés à Google, nous allons utiliser la fonctionnalité de connexion via un compte Google. Pour cela, cliquez sur l'icône G de Google.
 
@@ -24,7 +14,7 @@ Dans le cadre de notre cours, le lien à utiliser est : [https://repl.it/classro
 
 ## Procédure pour vous connecter à REPL.it par la suite
 
-1) Cliquez sur [https://repl.it/student](https://repl.it/student)
+1) Cliquez sur [repl.it/repls](repl.it/repls)
 
 2) Cliquez sur l'icône G de Google.
 
